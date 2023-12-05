@@ -1,0 +1,10 @@
+<div class="container">
+  <h1 class="header">My dream team</h1>
+  <div class="content">
+    <div class="card" *ngFor="let member of members">
+      <h3 class="card-title">{{ member.name }}</h3>
+      <p class="card-subtitle">{{ member.position }}</p>
+      <img class="card-image" [src]="member.image" alt="Member image" />
+    </div>
+  </div>
+</div>
