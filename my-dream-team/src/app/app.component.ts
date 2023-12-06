@@ -22,6 +22,11 @@ export class AppComponent {
       position: "Quality Assurance",
       image: "https://media.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif"
     },
+    {
+      name: "Zhemha Andrii",
+      position: "Team Lead",
+      image: "https://www.gifimili.com/gif/2022/02/volodymyr-zelensky.gif"
+    },
   ];
   title = 'my-dream-team';
 }
