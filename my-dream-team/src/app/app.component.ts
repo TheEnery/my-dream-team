@@ -27,6 +27,11 @@ export class AppComponent {
       position: "Who am I?",
       image: "https://avatars.githubusercontent.com/u/87442560?v=4",
     },
+    {
+      name: "Zhemha Andrii",
+      position: "Team Lead",
+      image: "https://www.gifimili.com/gif/2022/02/volodymyr-zelensky.gif"
+    },
   ];
   title = 'my-dream-team';
 }
