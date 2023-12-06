@@ -12,6 +12,11 @@ export class AppComponent {
       position: 'Design Director',
       image: 'https://i.kym-cdn.com/photos/images/original/002/342/992/8a0.png',
     },
+    {
+      name: "Kozyra Oleksandr",
+      position: "Quality Assurance",
+      image: "https://media.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif"
+    },
   ];
   title = 'my-dream-team';
 }
