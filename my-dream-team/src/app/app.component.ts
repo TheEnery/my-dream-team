@@ -8,9 +8,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   members = [
     {
-      name: "Member name",
-      position: "Member position",
-      image: "https://winaero.com/blog/wp-content/uploads/2019/11/Photos-new-icon.png"
+      name: "Kozyra Oleksandr",
+      position: "Quality Assurance",
+      image: "https://media.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif"
     },
   ]
   title = 'my-dream-team';
