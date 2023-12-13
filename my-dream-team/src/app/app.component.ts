@@ -9,7 +9,7 @@ export class AppComponent {
   members = [
     {
       name: "Dmytro Kovalenko",
-      position: "System Architect",
+      position: "(not) System Architect",
       image: "https://avatars.githubusercontent.com/u/87442560?v=4",
     },
   ]
