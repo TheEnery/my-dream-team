@@ -8,29 +8,29 @@ import { Component } from '@angular/core';
 export class AppComponent {
   members = [
     {
-      name: "Dmytro Kovalenko",
-      position: "System Architect",
-      image: "https://avatars.githubusercontent.com/u/87442560?v=4",
+      name: 'Dmytro Kovalenko 🚀',
+      position: 'System Architect',
+      image: 'https://avatars.githubusercontent.com/u/87442560?v=4',
     },
     {
-      name: 'Nazarii Klymok',
+      name: 'Nazarii Klymok ✨',
       position: 'Design Director',
       image: 'https://i.kym-cdn.com/photos/images/original/002/342/992/8a0.png',
     },
     {
-      name: "Kozyra Oleksandr",
-      position: "Quality Assurance",
-      image: "https://media.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif"
+      name: 'Kozyra Oleksandr 🔧',
+      position: 'Quality Assurance',
+      image: 'https://media.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif',
     },
     {
-      name: "Renat Kovalov",
+      name: "Renat Kovalov 👀",
       position: "Who am I? УКРАЇНСЬКОЮ МОВОЮ ПИШУ ТУТ ЩО СТВОРИВ ПУЛ РІКВЕСТ 13.12.2023",
       image: "https://media.tenor.com/TrZcpR0Kde8AAAAi/cat-meme-funny.gif",
     },
     {
-      name: "Zhemha Andrii",
-      position: "Team Lead",
-      image: "https://www.gifimili.com/gif/2022/02/volodymyr-zelensky.gif"
+      name: 'Zhemha Andrii',
+      position: 'Team Lead',
+      image: 'https://www.gifimili.com/gif/2022/02/volodymyr-zelensky.gif',
     },
   ];
   title = 'my-dream-team';
