@@ -24,7 +24,7 @@ export class AppComponent {
     },
     {
       name: "Renat Kovalov",
-      position: "Who am I?",
+      position: "Who am I? УКРАЇНСЬКОЮ МОВОЮ ПИШУ ТУТ ЩО СТВОРИВ ПУЛ РІКВЕСТ 13.12.2023",
       image: "https://media.tenor.com/TrZcpR0Kde8AAAAi/cat-meme-funny.gif",
     },
     {
