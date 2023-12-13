@@ -23,9 +23,9 @@ export class AppComponent {
       image: 'https://media.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif',
     },
     {
-      name: 'Renat Kovalov 👀',
-      position: 'Who am I?',
-      image: 'https://avatars.githubusercontent.com/u/87442560?v=4',
+      name: "Renat Kovalov 👀",
+      position: "Who am I?",
+      image: "https://media.tenor.com/TrZcpR0Kde8AAAAi/cat-meme-funny.gif",
     },
     {
       name: 'Zhemha Andrii',
