@@ -25,7 +25,7 @@ export class AppComponent {
     {
       name: "Renat Kovalov",
       position: "Who am I?",
-      image: "https://media.tenor.com/TrZcpR0Kde8AAAAi/cat-meme-funny.gif",
+      image: "",
     },
     {
       name: "Zhemha Andrii",
